@@ -143,7 +143,6 @@ void ui_loop(struct play_ctx *ctx) {
         ctx->notes[8] = !ctx->notes[8] | !ctx->toggle_mode;
         break;
       case 'p':
-        break;
         ctx->notes[9] = !ctx->notes[9] | !ctx->toggle_mode;
         break;
       case '`':
