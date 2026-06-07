@@ -15,7 +15,7 @@ Synthesizer with noise and keyboard input
 ### Requirements
 
 - PortAudio: required for the live processing option.
-  - Install via `sudo dnf install portaudio-devel` for Debian/Ubuntu.
+  - Install via `sudo dnf install portaudio-devel` for Fedora.
   - Install via `sudo apt install portaudio19-dev` for Debian/Ubuntu.
 
 ### Compiling
